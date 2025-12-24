@@ -1,0 +1,8 @@
+﻿node_modules
+.nuxt
+.output
+.cache
+.DS_Store
+.env*
+/.github/copilot-instructions.md
+/.github/

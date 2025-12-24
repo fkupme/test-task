@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="8" fill="#FFCC00"/>
+  <path d="M12 12h24v24H12z" fill="#FFCC00"/>
+  <rect x="14" y="14" width="20" height="20" rx="4" fill="white"/>
+  <text x="24" y="28" text-anchor="middle" font-size="9" fill="#FFCC00" font-family="Arial, sans-serif" font-weight="bold">Wiki</text>
+</svg>
