@@ -1,6 +1,4 @@
-# MUSbooking Admin Panel
-
-Административная панель для управления сервисом MUSbooking.
+# clean preset
 
 ## Дизайн
 
